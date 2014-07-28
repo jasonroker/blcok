@@ -1,0 +1,7 @@
+F:\ugtest\application\block.dll
+F:\ugtest\application\block.pdb
+F:\test\blcok\blcok\obj\Debug\block.csprojResolveAssemblyReference.cache
+F:\test\blcok\blcok\obj\Debug\block.createblock.resources
+F:\test\blcok\blcok\obj\Debug\block.csproj.GenerateResource.Cache
+F:\test\blcok\blcok\obj\Debug\block.dll
+F:\test\blcok\blcok\obj\Debug\block.pdb

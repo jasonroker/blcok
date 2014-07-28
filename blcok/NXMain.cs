@@ -17,6 +17,7 @@ namespace block
                     createblock bl = new createblock();
                     bl.Show();
                 }
+                MessageBox.Show("HELLO,MY FRIEND!");
             }
             catch (NXOpen.NXException error)
             {
